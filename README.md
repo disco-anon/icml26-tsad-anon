@@ -1,2 +1,2 @@
 # icml26-tsad-anon
-Anonymous ICML 2026 submission
+Run main_sq_all.py
